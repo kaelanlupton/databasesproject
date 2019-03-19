@@ -18,3 +18,9 @@ Requirements
 "Write PHP programs that implement the functional requirements outlined above.  You may need to add more data to your database to adequately demonstrate all the functionality and to make the results more interesting. You may assume that user input is correct so input syntax checking can be minimal. You must, however, handle cases where queries return no results. As the minimum, your program can simply use prompted input and formatted output from the browser, however, more attention to the interface design will yield better results (and higher marks).
 
 You will be required to demonstrate your application during the final 2 weeks of class.   All team members should be present and participate in the demo. A demo schedule will be established later in the term but you should plan to complete your project by the first day of scheduled demos (which will be determined later in the term once we know how many project groups there are)."
+
+For the demo:
+- create the database
+- prepare a script to follow that allows us to show the features of the app in 5 minute demo
+- marker will ask to see functionalities of their choice 
+- be prepared to answer questions
