@@ -19,7 +19,7 @@ echo "<p>Here is a list of all the professors at the university and their salari
 echo "<table><tr><th>Name</th><th>Salary</th></tr>";
 
 #connect to the database
-$pdo = new PDO('mysql:host=localhost;dbname=university', "root", "");
+$pdo = new PDO('mysql:host=localhost;dbname=UniversityDatabase', "root", "");
 
 $sql = "select name, salary from instructor where dept_name = ?";
 $stmt = $pdo->prepare($sql);   #create the query
