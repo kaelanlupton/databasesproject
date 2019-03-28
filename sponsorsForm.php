@@ -5,6 +5,10 @@
 </head>
 <body>
 <h2>Sponsor Information</h2>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> c0bb4a3a563a59c987cc0a3e8cada5e970289a3c
     
 <?php
     if(isset($_POST['submitSponsor'])){
@@ -15,6 +19,7 @@
     
     switch($selected_val) {
             
+<<<<<<< HEAD
         case "s1": 
             //list sponsors and levels code
             echo "$selected_val";
@@ -46,6 +51,27 @@
     }
 ?>
     
+=======
+        case "s1": echo "$selected_val"; break;
+            
+        case "s2": echo "$selected_val"; break;
+            
+        case "s3": echo "$selected_val"; break;
+            
+        case "s4": echo "$selected_val"; break;
+            
+        case "s5": echo "$selected_val"; break;
+            
+        default: echo("You forgot to choose an option!"); break;
+    }
+?>
+    
+=======
+
+
+<?php ?>
+>>>>>>> d36e9df6ab2325a49123a0e981537677168334c7
+>>>>>>> c0bb4a3a563a59c987cc0a3e8cada5e970289a3c
 </table>
 </body>
 </html> 
