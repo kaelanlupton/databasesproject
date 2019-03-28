@@ -5,6 +5,7 @@
 </head>
 <body>
 <h2>Sponsor Information</h2>
+<<<<<<< HEAD
     
 <?php
     if(isset($_POST['submitSponsor'])){
@@ -29,6 +30,11 @@
     }
 ?>
     
+=======
+
+
+<?php ?>
+>>>>>>> d36e9df6ab2325a49123a0e981537677168334c7
 </table>
 </body>
 </html> 

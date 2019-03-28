@@ -6,6 +6,7 @@
 <body>
 <h2>People Information</h2>
 
+<<<<<<< HEAD
 <?php
     if(isset($_POST['submitPeople'])){
         $selected_val = $_POST['formPeople'];  // Storing Selected Value In Variable
@@ -24,6 +25,9 @@
     }
 ?>
     
+=======
+
+>>>>>>> d36e9df6ab2325a49123a0e981537677168334c7
 <?php ?>
 </table>
 </body>
